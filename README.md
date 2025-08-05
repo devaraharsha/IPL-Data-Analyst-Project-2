@@ -32,5 +32,42 @@ This project helps to:
 <img width="1288" height="724" alt="image" src="https://github.com/user-attachments/assets/47bc673d-a3e9-4684-ac42-605d06010525" />
 
 
-## 📁 Folder Structure
 
+## ⚙️ How to Use
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/devaraharsha/IPL-Data-Analyst-Project-2.git
+   
+2. Open the .pbix file using Power BI Desktop.
+
+3. Make sure your SQL database is connected and update credentials if required.
+
+4. Explore and interact with different team filters and visuals.
+
+📌 Features Highlight
+💰 Salary Analysis per team
+
+🧢 Team Captains display
+
+🏟️ Matches Played visualization
+
+🏏 Runs Scored tracker
+
+📈 Clean and themed UI for cricket fans
+
+🚀 Future Enhancements
+Add filters for season/year
+
+Integrate player performance graphs (wickets, strike rate, etc.)
+
+Export visual reports as PDFs
+
+📬 Contact
+For any suggestions or collaborations, feel free to connect:
+
+Creator: Harsha Devara
+
+Email: devarahatsha79114@gmail.com
+
+LinkedIn:https://www.linkedin.com/in/harsha-devara/
